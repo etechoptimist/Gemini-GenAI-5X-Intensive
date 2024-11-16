@@ -1,6 +1,5 @@
 # Gemini-GenAI-5X-Intensive
-Completed the 5-Day Gen AI Intensive Course. Participants engaged in daily seminars, explored white papers, and worked on assignments covering various aspects of Generative AI, enhancing skills in AI technologies, frameworks, and applications. A hands-on learning experience in GenAI
-
+Repository capturing the experience of the 5-Day Gen AI Intensive Course. Participants attended daily seminars, delved into white papers, and completed assignments on various aspects of Generative AI, boosting their skills in AI technologies, frameworks, and applications. A hands-on GenAI learning journey.
 ## Day 1
 Foundational Large Language Models & Text Generation and Prompt Engineering
 
